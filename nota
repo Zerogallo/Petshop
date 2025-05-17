@@ -1,0 +1,21 @@
+nav 
+    carrinho
+
+    buscar
+    
+    cachorro
+        alimentação
+        farmácia
+        banho e higiene
+        brinquedos 
+    gatos
+        alimentação
+        farmácia
+        banho e higiene
+        brinquedos 
+    outro
+        equipamentos
+    casa
+        inseticida
+        pulverizador
+        repelentes
