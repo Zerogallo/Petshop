@@ -1,12 +1,45 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Preview do Relógio](https://github.com/Zerogallo/Petshop/blob/main/public/image%20como%20esta.PNG)
 
-Currently, two official plugins are available:
+# 🐾 PetShop - Header Dinâmico
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Funcionalidades Principais
 
-## Expanding the ESLint configuration
+- *Navegação Inteligente* com menus dropdown interativos
+- *Design Responsivo* que se adapta a qualquer dispositivo
+- *Busca Integrada* com feedback visual
+- *Carrinho de Compras* com contador de itens
+- *Animações Suaves* para melhor experiência do usuário
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tecnologias Utilizadas
+
+- React.js com hooks (useState)
+- CSS Modules para estilização
+- Ícones do React Icons
+- Efeitos de hover e transições CSS
+- Design totalmente responsivo
+
+## 🎯 Melhorias Implementadas
+
+1. *Navegação Dinâmica*:
+   - Menus suspensos organizados por categorias
+   - Funcionalidade hover (desktop) e toggle (mobile)
+   - Animações de abertura/fechamento
+
+2. *Experiência do Usuário*:
+   - Feedback visual em interações
+   - Campo de busca com destaque quando ativo
+   - Ícones indicadores de estado
+
+3. *Código Organizado*:
+   - Estrutura de dados para categorias
+   - Componente semântico e acessível
+   - Estilos modulares e reutilizáveis
+
+## 📱 Responsividade
+
+O componente adapta-se perfeitamente a:
+- Telas grandes (desktop)
+- Tablets
+- Dispositivos móveis (menu vira acordeão)
+
