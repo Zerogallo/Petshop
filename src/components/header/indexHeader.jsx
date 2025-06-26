@@ -4,6 +4,7 @@ import { HiMiniMagnifyingGlassCircle } from "react-icons/hi2";
 import { FaCat, FaDog } from "react-icons/fa6";
 import { MdOutlineOtherHouses } from "react-icons/md";
 import { TbHomeDot } from "react-icons/tb";
+import logo from "../../../public/dry-dog-food-svgrepo-com.svg";
 
 export default function Header() {
   // Estrutura de dados para os itens de navegação (mais organizado)
@@ -43,7 +44,7 @@ export default function Header() {
   return (
     <header className={styles.header}>
       <div className={styles.logoContainer}>
-        {/* Substitua por sua logo real */}
+        <img src={logo} alt="logo" />
         <h1>PetShop</h1>
       </div>
 
